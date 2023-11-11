@@ -1,0 +1,6 @@
+[submodule "jappcheck-core"]
+	path = jappcheck-core
+	url = git@github.com:xolider/jappcheck-core.git
+[submodule "jappcheck-spring"]
+	path = jappcheck-spring
+	url = git@github.com:xolider/jappcheck-spring.git
